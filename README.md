@@ -1,2 +1,2 @@
 # AI_Pacman
-Bug&amp;Pizza
+Bug&amp;Pizzas
